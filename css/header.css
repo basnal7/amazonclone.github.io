@@ -663,6 +663,7 @@ footer li{
 }
 .language ul{
     display: flex;
+    flex-wrap: wrap;
 }
 
 .language ul li{
